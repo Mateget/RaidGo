@@ -13,4 +13,5 @@ This is a temporary state while I finish developing the automated payment system
 If you're already using the mod, no worries — you can continue using it normally. Any future changes will be announced well in advance.
 
 ➡️ Join the Discord for updates, support, and future payment info:
-https://discord.gg/8ar2wCHfnf
+
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/8ar2wCHfnf)
