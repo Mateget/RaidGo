@@ -1,5 +1,6 @@
-RaidGo - Pixelmon Side Mod
-📝 Licensing Notice
+# RaidGo - Pixelmon Side Mod
+
+### 📝 Licensing Notice
 
 RaidGo is currently free to use.
 The authentication system is already implemented, but it's currently disabled (it always returns true), meaning you can use the mod without any restrictions for now.
